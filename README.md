@@ -16,3 +16,4 @@ Refs:
 1. Box, M.J., “A new method of constrained optimization and a comparison with other method”, Computer Journal, Volume 8, No. 1, pages 42-52, 1965.
 2. Guin J. A., “Modification of the Complex method of constraint optimization”, Computer Journal, Volume 10, pages 416-417, 1968.
 3.Spendley W., Hext G. R., and Himsworth F. R., “Sequential application of Simplex designs in optimisation and evolutionary operation”, Technometrics, Volume 4, pages 441-462, 1962
+ 
